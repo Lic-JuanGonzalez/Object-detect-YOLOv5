@@ -1,0 +1,60 @@
+Using cache found in C:\Users\User/.cache\torch\hub\ultralytics_yolov5_master
+YOLOv5  2023-9-18 Python-3.11.7 torch-2.0.1+cpu CPU
+
+Fusing layers... 
+Model summary: 322 layers, 86186872 parameters, 0 gradients, 203.8 GFLOPs
+Adding AutoShape... 
+06/02/2024 19:06:10 Empty DataFrame
+Columns: [xmin, ymin, xmax, ymax, confidence, class, name]
+Index: []
+06/02/2024 19:06:11 Empty DataFrame
+Columns: [xmin, ymin, xmax, ymax, confidence, class, name]
+Index: []
+06/02/2024 19:06:12    xmin  ymin   xmax   ymax  confidence  class      name
+0   0.0   0.0  640.0  480.0    0.489689      2  Pistacho
+06/02/2024 19:06:13         xmin      ymin        xmax        ymax  confidence  class      name
+0  39.462234  1.149788  173.389389  152.404572    0.754576      1      Nuez
+1   0.000000  7.131516  355.887512  441.089783    0.341976      2  Pistacho
+06/02/2024 19:06:13         xmin      ymin        xmax        ymax  confidence  class      name
+0  35.357422  0.950294  166.646179  152.934296    0.793954      1      Nuez
+1   0.000000  4.516937  359.274841  463.013367    0.434392      2  Pistacho
+06/02/2024 19:06:14         xmin      ymin        xmax        ymax  confidence  class      name
+0  33.094215  2.154716  169.127289  151.694275    0.801856      1      Nuez
+1   0.000000  4.388367  357.390564  463.564728    0.426254      2  Pistacho
+06/02/2024 19:06:15         xmin      ymin        xmax        ymax  confidence  class      name
+0  26.383812  0.209602  160.410858  150.425140    0.817890      1      Nuez
+1   0.000000  7.586868  350.875305  459.127625    0.478889      2  Pistacho
+2   2.016571  2.759495   33.900208  100.540451    0.345822      1      Nuez
+06/02/2024 19:06:15        xmin      ymin        xmax        ymax  confidence  class      name
+0  25.72583  0.455681  159.622467  151.498718    0.801398      1      Nuez
+1   0.00000  7.014328  350.299316  456.149963    0.430916      2  Pistacho
+06/02/2024 19:06:16         xmin  ymin        xmax        ymax  confidence  class      name
+0  28.658424   0.0  162.154572  146.492538    0.785385      1      Nuez
+1   0.000000   0.0  640.000000  480.000000    0.499228      2  Pistacho
+06/02/2024 19:06:17         xmin        ymin        xmax        ymax  confidence  class      name
+0  67.841927   12.382584  215.795471  162.815186    0.785356      1      Nuez
+1   0.407660  330.541351   27.436012  351.418304    0.364409      0  Almendra
+06/02/2024 19:06:17         xmin        ymin        xmax        ymax  confidence  class      name
+0  77.364525   14.951828  222.694031  165.949417    0.848742      1      Nuez
+1   1.029470  335.320404   27.189684  355.629181    0.253870      0  Almendra
+06/02/2024 19:06:18         xmin       ymin        xmax        ymax  confidence  class  name
+0  70.067062  11.007179  214.108109  161.787994    0.842574      1  Nuez
+06/02/2024 19:06:18         xmin       ymin        xmax        ymax  confidence  class  name
+0  69.106949  11.794754  210.033646  161.841812    0.850219      1  Nuez
+06/02/2024 19:06:19         xmin      ymin        xmax        ymax  confidence  class      name
+0  68.902931  11.65551  210.392273  162.087982    0.851605      1      Nuez
+1   0.000000   0.00000  640.000000  480.000000    0.276320      2  Pistacho
+06/02/2024 19:06:20         xmin        ymin        xmax        ymax  confidence  class      name
+0  69.976761   10.971268  210.870193  163.107117    0.844043      1      Nuez
+1   0.382113  333.893036   23.279629  356.174469    0.327831      0  Almendra
+2   0.000000   15.045258  623.236389  480.000000    0.325808      2  Pistacho
+06/02/2024 19:06:21         xmin       ymin        xmax        ymax  confidence  class      name
+0  69.706749  10.957657  209.509766  160.637604    0.846343      1      Nuez
+1   0.000000  14.435501  623.417358  480.000000    0.337620      2  Pistacho
+06/02/2024 19:06:21         xmin        ymin        xmax        ymax  confidence  class      name
+0  62.860115   12.108772  207.474609  162.018768    0.854298      1      Nuez
+1   0.000000    8.857681  627.034912  479.814575    0.374645      2  Pistacho
+2   0.293175  429.727417   45.904114  480.000000    0.264386      0  Almendra
+06/02/2024 19:06:22         xmin      ymin        xmax        ymax  confidence  class      name
+0  71.253799  9.595947  211.536362  163.210617    0.836637      1      Nuez
+1   0.000000  8.066299  618.298889  480.000000    0.350299      2  Pistacho
